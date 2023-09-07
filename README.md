@@ -1,6 +1,6 @@
 # edX_01
 
-Introduction to Machine Learning.
+Introduction to Machine Learning with IBM.
 
 By putting a in a few hours a week for the next several weeks, you'll gain:
 
